@@ -1,0 +1,48 @@
+{
+  "students": [
+    {
+      "fname": "dhanish",
+      "lname": "pandav",
+      "email": "dhanish@gmail.com",
+      "country": "Hindustan",
+      "address": "1849",
+      "city": "surat",
+      "std": "12",
+      "zip": "395004",
+      "id": 1
+    },
+    {
+      "fname": "dhanish",
+      "lname": "lund",
+      "email": "dhanish@gmail.com",
+      "country": "",
+      "address": "1849",
+      "city": "surat",
+      "std": "12",
+      "zip": "395004",
+      "id": 2
+    },
+    {
+      "fname": "darpan",
+      "lname": "jatt",
+      "email": "meet@gmail.com",
+      "country": "",
+      "address": "randi bazar",
+      "city": "surat",
+      "std": "bhos",
+      "zip": "395004",
+      "id": 3
+    },
+    {
+      "fname": "meet",
+      "lname": "Porter",
+      "email": "meet@gmail.com",
+      "country": "",
+      "address": "1849",
+      "city": "surat",
+      "std": "12",
+      "zip": "395004",
+      "id": 4
+    }
+  ]
+}
